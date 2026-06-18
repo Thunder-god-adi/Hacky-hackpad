@@ -35,10 +35,15 @@ Yo Boizzz , This Is A MACROPAD That Includes 6 Keys [Mechanical] with 4x EC11 Ro
 | Component | Quantity | Specification | Unit Price | Total Price |
 
 | **PCB** | 5 | Custom macropad (5x4 matrix) | $11 with shipping | $11 with shipping |
+
 | **XIAO** | 1 |Microcontroller | $7 with shipping | $7 with shipping |
+
 | **OLED display** | 1 | Display | $2 with shipping | $2 with shipping |
+
 | *EC11 10K Rotary Encoder** | 1 | EC11 10K Rotary Encoder | $3 with shipping | $3 with shipping |
+
 | **Keycaps** | 1 | Keycaps | $5 with shipping | $5 with shipping |
+
 | **Mechanical Switches** | 1 | Switches | $4 with shipping | $4 with shipping |
 
 ## JLCPCB
