@@ -32,19 +32,15 @@ Yo Boizzz , This Is A MACROPAD That Includes 6 Keys [Mechanical] with 4x EC11 Ro
 
 # Bill of Materials (BOM)
 
-| Component | Quantity | Specification | Unit Price | Total Price |
-
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $11 with shipping | $11 with shipping |
-
-| **XIAO** | 1 |Microcontroller | $7 with shipping | $7 with shipping |
-
-| **OLED display** | 1 | Display | $2 with shipping | $2 with shipping |
-
-| *EC11 10K Rotary Encoder** | 1 | EC11 10K Rotary Encoder | $3 with shipping | $3 with shipping |
-
-| **Keycaps** | 1 | Keycaps | $5 with shipping | $5 with shipping |
-
-| **Mechanical Switches** | 1 | Switches | $4 with shipping | $4 with shipping |
+| Component               | Quantity | Specification                | Unit Price          | Total Price |
+| ----------------------- | -------- | ---------------------------- | ------------------- | ----------- |
+| PCB                     | 5        | Custom Macropad (5×4 Matrix) | $11 (with shipping) | $11         |
+| XIAO                    | 1        | Microcontroller              | $7 (with shipping)  | $7          |
+| OLED Display            | 1        | Display Module               | $2 (with shipping)  | $2          |
+| EC11 10K Rotary Encoder | 1        | Rotary Encoder               | $3 (with shipping)  | $3          |
+| Keycaps                 | 1 Set    | Keycaps                      | $5 (with shipping)  | $5          |
+| Mechanical Switches     | 20       | Switches for 5×4 Matrix      | $4 (with shipping)  | $4          |
+| **Total**               |          |                              |                     | **$32**     |
 
 ## JLCPCB
 <img width="1568" height="687" alt="Screenshot 2026-06-18 210323" src="https://github.com/user-attachments/assets/2b05c3e4-767d-47f1-8594-3e8132258dce" />
