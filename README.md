@@ -30,7 +30,7 @@ Yo Boizzz , This Is A MACROPAD That Includes 6 Keys [Mechanical] with 4x EC11 Ro
 
 
 
-# 📋 Bill of Materials (BOM)
+# Bill of Materials (BOM)
 
 | Component | Quantity | Specification | Unit Price | Total Price |
 
@@ -38,7 +38,8 @@ Yo Boizzz , This Is A MACROPAD That Includes 6 Keys [Mechanical] with 4x EC11 Ro
 
 
 ## JLCPCB
-<img width="1769" height="773" alt="image" src="https://github.com/user-attachments/assets/6d66bf14-be7b-41f4-b2c3-25622fd8ae75" />
+<img width="1568" height="687" alt="Screenshot 2026-06-18 210323" src="https://github.com/user-attachments/assets/2b05c3e4-767d-47f1-8594-3e8132258dce" />
+
 
 
 
