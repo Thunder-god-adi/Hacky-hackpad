@@ -1,8 +1,9 @@
-| Component | Quantity | Specification | Unit Price | Total Price |
-
-| **PCB** | 5 | Custom macropad (5x4 matrix) | $11 with shipping | $11 with shipping |
-| **XIAO** | 1 |Microcontroller | $7 with shipping | $7 with shipping |
-| **OLED display** | 1 | Display | $2 with shipping | $2 with shipping |
-| *EC11 10K Rotary Encoder** | 1 | EC11 10K Rotary Encoder | $3 with shipping | $3 with shipping |
-| **Keycaps** | 1 | Keycaps | $5 with shipping | $5 with shipping |
-| **Mechanical Switches** | 1 | Switches | $4 with shipping | $4 with shipping |
+| Name                 | Specification              | Cost (USD) | Qty | Total (USD) | Distributor | Links
+| -------------------- | -------------------------- | ---------- | --- | ----------- | ----------- | -------------
+| PCB                  | Custom macropad (5x4)      | $11.00     | 5   | $11.00      | JLCPCB      |
+| XIAO                 | Microcontroller            | $7.00      | 1   | $7.00       | Seeed       |https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvYUeFOurHuv6PLSnvMBwnIzx&gclid=EAIaIQobChMI_72N3ZGRlQMVCm0PAh03gDIyEAQYASABEgKj0_D_BwE
+| OLED Display         | Display Module             | $2.00      | 1   | $2.00       | Amazon      |https://robu.in/product/blue-oled-display-module/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWdzc52j7dV6p7wFeXCaHnsev&gclid=EAIaIQobChMIyqv4u5WRlQMV56xmAh27RQj0EAQYASABEgLAIvD_BwE
+| EC11 Rotary Encoder  | EC11 10K Rotary Encoder    | $3.00      | 1   | $3.00       | Amazon      |https://www.amazon.in/CentIoT%C2%AE-Encoder-Digital-Potentiometer-Control/dp/B07THRXT4F?th=1
+| Keycaps              | Keycaps Set                | $5.00      | 1   | $5.00       | amazon      |https://www.amazon.in/CALANDISTM-Transparent-Switches-Keyboards-Pointers/dp/B0F13YK4D6/ref=sr_1_15?crid=31R4WY38LW94N&dib=eyJ2IjoiMSJ9.fc7HUd79C10vfF_Eyd2mjm8NtqMOcMUS9WgGvXSTZvFp0zT8GSnqhjNSi-y0B3FQef1s2rCsyGH694M5ZMllZ6cMyfb3ZhJv4H3klhO1ot4O26EqJN127DB4ECZB-V5KF-wWUdNZVPs3dqjiy1CkJ-RC1QNJOaZLdW6Y8FieVq5TENI7_deSUReVvdkdj0WA01Xp_64MSrOE512448V-cYtIaGjS3rqsqeiznWHe7ic.h9hxENgx5ndPqOtUe5idjH_anbYI0x7-MfRV3lBG5Vo&dib_tag=se&keywords=keycaps&qid=1781798827&sprefix=keycaps%2Caps%2C271&sr=8-15
+| Mechanical Switches  | Mechanical Keyboard Switch | $4.00      | 1   | $4.00       | Amazon      |https://www.amazon.in/Mechanical-Dustproof-Hot-Swappable-Compatible-Keyboards/dp/B0FPR2ML31?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A16FKXBMFHBYH0
+| **TOTAL**            |                            |            |     | **$32.00**  |             |
